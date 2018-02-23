@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR</string>
+    <string name="button1">Generate QR</string>
+    <string name="edittext">Enter to Generate QR</string>
+    <string name="imgview">Please Wait</string>
+    <string name="button2">Scan QR</string>
+</resources>
